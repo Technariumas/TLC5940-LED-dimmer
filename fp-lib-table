@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name htssop-28)(type Legacy)(uri "$(KIPRJMOD)/tlc5940.pretty/htssop-28.mod")(options "")(descr ""))
+  (lib (name tlc5940)(type KiCad)(uri "$(KIPRJMOD)/tlc5940.pretty")(options "")(descr ""))
+)
